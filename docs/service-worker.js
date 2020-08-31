@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ab162fc90a03d2faf5ae5cebca605e4c.js"
+  "precache-manifest.ee34338773ad626e000128cdf7f2b2a1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "nerdle"});
